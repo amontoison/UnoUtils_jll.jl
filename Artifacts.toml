@@ -1,0 +1,47 @@
+[[UnoUtils]]
+arch = "aarch64"
+git-tree-sha1 = "54a81d19e992bd84b5f9e74a07f54b2a7dc9c168"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[UnoUtils.download]]
+    sha256 = "86cd77e93585ab0b9956dd309ad7b66a146533a0bf25636090f304acf7b832e9"
+    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.2.7+0/UnoUtils.v2026.2.7.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[UnoUtils]]
+arch = "aarch64"
+git-tree-sha1 = "28af8c1ad2d8406915f8b4c67f9f52926de44c69"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[UnoUtils.download]]
+    sha256 = "20c16ce629d9dc367ed18b7be2b16375baa4c0f696f140e0b821a64da1a8ae5e"
+    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.2.7+0/UnoUtils.v2026.2.7.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[UnoUtils]]
+arch = "x86_64"
+git-tree-sha1 = "ddf1cec6fb29befccd45d193a2da8a6140b33e9c"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[UnoUtils.download]]
+    sha256 = "ed15e7a4a654693abf811f20f75c43bfda53716784bc0fc12cdb8679505ce82f"
+    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.2.7+0/UnoUtils.v2026.2.7.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[UnoUtils]]
+arch = "x86_64"
+git-tree-sha1 = "3cb17ff175a79816131021adb06bcd8d4e93c220"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[UnoUtils.download]]
+    sha256 = "411d98ceb88a9117f5fa29a7d95c479598081a7f7bd18e1dd61cd0157c347bc2"
+    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.2.7+0/UnoUtils.v2026.2.7.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[UnoUtils]]
+arch = "x86_64"
+git-tree-sha1 = "5dce50cf965ed09524003713ffbd4cd12387542d"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[UnoUtils.download]]
+    sha256 = "ae047880a964814fb2220bbda361b947a541f6d7de5ef81e41576a22d5befa83"
+    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.2.7+0/UnoUtils.v2026.2.7.x86_64-w64-mingw32-libgfortran5.tar.gz"
