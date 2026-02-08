@@ -1,6 +1,6 @@
 name = "UnoUtils_jll"
 uuid = "239eb94d-eb8d-548c-8f38-a23b526f3ac8"
-version = "2026.2.8+0"
+version = "2026.2.9+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
