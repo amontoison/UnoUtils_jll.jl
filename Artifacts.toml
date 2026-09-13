@@ -70,52 +70,52 @@ os = "linux"
 [[UnoUtils]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b3924d88fdf561e4ca18d45b2f36d78aec4c76da"
+git-tree-sha1 = "2e7ebc81a6d8b163ec100fb12846484011fe51c3"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[UnoUtils.download]]
-    sha256 = "b7f03b0cd23d98a129298f5ad0a351d5e75aec01f9a53e0fcc277a2a170d1619"
-    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.9.12+0/UnoUtils.v2026.9.12.aarch64-apple-darwin-libgfortran5-cxx11.tar.gz"
+    sha256 = "84a461eea4ef10e1268a6255d860e997c1423cca1e7e258f5e5ed285fbfcd8f3"
+    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.9.13+0/UnoUtils.v2026.9.13.aarch64-apple-darwin-libgfortran5-cxx11.tar.gz"
 [[UnoUtils]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7118bfb177738c137e3ef23308bab614caec47aa"
+git-tree-sha1 = "35c9b09b3c6f53fc6f555777aaeac615bea41c40"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[UnoUtils.download]]
-    sha256 = "782c43a8f2a2b2b6a04abef6221dd163612f28c4cd5a9327773bb7ee7dd36ca3"
-    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.9.12+0/UnoUtils.v2026.9.12.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "68f780ca1d6275019a3921316d322dc8ee34de43979055314222e0a6f918e983"
+    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.9.13+0/UnoUtils.v2026.9.13.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[UnoUtils]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dc2f6dc80fe69f961cbd37152858020728384759"
+git-tree-sha1 = "1e10e5348a93906c20546b49b5becbfa9d3ebc44"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[UnoUtils.download]]
-    sha256 = "463d66fdb9d92bfdc7537b11eadde3cba099d5a03c0ec73bb76fd63690a6a059"
-    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.9.12+0/UnoUtils.v2026.9.12.x86_64-apple-darwin-libgfortran5-cxx11.tar.gz"
+    sha256 = "71049ca12c08876a8dc3bfd4739553a871371d1860f0503c6f680c65b59ad855"
+    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.9.13+0/UnoUtils.v2026.9.13.x86_64-apple-darwin-libgfortran5-cxx11.tar.gz"
 [[UnoUtils]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "30a19ef6674bc06a34abf8585b491cb4a2354334"
+git-tree-sha1 = "31c61973959e9f57d854a9063873b9cff6ab705b"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[UnoUtils.download]]
-    sha256 = "df0b899a90e2c584c993ac954b1d0e30070edfb058d9e6f230a078310038a81d"
-    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.9.12+0/UnoUtils.v2026.9.12.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "d767db354b7c2fe98d57c65c39f7733ce6b3b8f2713ab9418f600f072217ef6f"
+    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.9.13+0/UnoUtils.v2026.9.13.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[UnoUtils]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9e7007b04e49db0572d8b81b5e8db268e43e8714"
+git-tree-sha1 = "30f7156ab5614f5a2317f629015beae6f39c63ac"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[UnoUtils.download]]
-    sha256 = "1ea2dfc62ee00b5269cb541cd8b6ae06770a6d18ea26c5c584b4459fb373f92b"
-    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.9.12+0/UnoUtils.v2026.9.12.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
+    sha256 = "69f808f9fc1bb9d9ca6e9189353db6063af55b210e3b86e7b8a97884f43ad147"
+    url = "https://github.com/amontoison/UnoUtils_jll.jl/releases/download/UnoUtils-v2026.9.13+0/UnoUtils.v2026.9.13.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
